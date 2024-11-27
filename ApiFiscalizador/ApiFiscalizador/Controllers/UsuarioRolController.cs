@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApiFiscalizador.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ApiFiscalizador.Controllers
 {
@@ -6,29 +7,33 @@ namespace ApiFiscalizador.Controllers
     [Route("api/UsuarioRol")]
     public class UsuarioRolController: ControllerBase
     {
-        private static readonly string[] Roles = new[]
-        {
-            "Administrador", "Ejecutor", "Organizacion"
-        };
-
-        private static readonly string[] UsuarioRol = new[]
-        {
-            "Administrador", "Ejecutor", "Organizacion"
-        };
-
         
-        [HttpGet]
-        [Route("ObtenerRoles")]
-        public string[] ObtenerRoles()
-        {
-            return Roles;
-        }
 
         [HttpGet]
         [Route("ObtenerRolexUsuario")]
-        public string[] ObtenerRolexUsuario()
+        public List<UsuarioRol> ObtenerRolexUsuario()
         {
-            return UsuarioRol;
+            List<UsuarioRol> usuarioXRol = [];
+
+            UsuarioRol usuarioRol1 = new UsuarioRol()
+            {
+                UsuarioId = 1,
+                RolId = 1,
+                FechaAsignacion = DateTime.Now,
+            };
+
+            UsuarioRol usuarioRol2 = new UsuarioRol()
+            {
+                UsuarioId = 2,
+                RolId = 2,
+                FechaAsignacion = DateTime.Now,
+            };
+
+            usuarioXRol.Add(usuarioRol1);
+            usuarioXRol.Add(usuarioRol2);
+
+
+            return usuarioXRol;
         }
     }
 }

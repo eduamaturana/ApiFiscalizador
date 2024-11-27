@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\usuariorolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\usuariorolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\models\\usuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\models\\usuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\rendicioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\rendicioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\permisorolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\permisorolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\institucioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\institucioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|c:\\users\\user\\desktop\\fiscalizador\\apifiscalizador\\apifiscalizador\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AB363F3-7B9C-4614-827C-FEABC8A1BB63}|ApiFiscalizador\\ApiFiscalizador.csproj|solutionrelative:apifiscalizador\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRol.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Models\\UsuarioRol.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Models\\UsuarioRol.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Models\\UsuarioRol.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Models\\UsuarioRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:38:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRolController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\UsuarioRolController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\UsuarioRolController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\UsuarioRolController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\UsuarioRolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:37:17.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchivoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\ArchivoController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\ArchivoController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\ArchivoController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\ArchivoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:30:26.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RendicionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\RendicionController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\RendicionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\RendicionController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\RendicionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:22:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermisoRolController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\PermisoRolController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\PermisoRolController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\PermisoRolController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\PermisoRolController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:59:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermisoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\PermisoController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\PermisoController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\PermisoController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\PermisoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:55:39.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\RolController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:46:52.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProyectoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\ProyectoController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\ProyectoController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\ProyectoController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\ProyectoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:07:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InstitucionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\InstitucionController.cs",
+              "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\InstitucionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\InstitucionController.cs",
+              "RelativeToolTip": "ApiFiscalizador\\Controllers\\InstitucionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:08:49.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "ApiFiscalizador\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Fiscalizador\\ApiFiscalizador\\ApiFiscalizador\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "ApiFiscalizador\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:06:42.491Z",
+              "WhenOpened": "2024-11-27T22:03:23.858Z",
               "EditorCaption": ""
             }
           ]

@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.Archivo, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,7 +29,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.Institucion, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -49,7 +49,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.RolPermiso, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -69,7 +69,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.Permiso, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -89,7 +89,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.Proyecto, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -109,7 +109,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.Rendicion, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -129,7 +129,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.Rol, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -161,26 +161,6 @@
   },
   {
     "ContainingType": "ApiFiscalizador.Controllers.UsuarioRolController",
-    "Method": "ObtenerRoles",
-    "RelativePath": "api/UsuarioRol/ObtenerRoles",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.String[]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "ApiFiscalizador.Controllers.UsuarioRolController",
     "Method": "ObtenerRolexUsuario",
     "RelativePath": "api/UsuarioRol/ObtenerRolexUsuario",
     "HttpMethod": "GET",
@@ -189,7 +169,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String[]",
+        "Type": "System.Collections.Generic.List\u00601[[ApiFiscalizador.Models.UsuarioRol, ApiFiscalizador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

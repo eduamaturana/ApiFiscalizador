@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApiFiscalizador.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ApiFiscalizador.Controllers
 {
@@ -6,16 +7,41 @@ namespace ApiFiscalizador.Controllers
     [Route("api/Archivos")]
     public class ArchivoController : ControllerBase
     {
-        private static readonly string[] Archivos = new[]
-        {
-          "Administrador", "Ejecutor", "Organizacion"
-        };
 
         [HttpGet]
         [Route("ObtenerArchivos")]
-        public string[] ObtenerArchivos()
+        public List<Archivo> ObtenerArchivos()
         {
-            return Archivos;
+            List<Archivo> archivos = [];
+
+            Archivo archivo1 = new Archivo()
+            {
+                Id = 1,
+                RendicionId = 1,
+                NombreArchivo = "boleta.pdf",
+                TipoArchivo = "boleta",
+                UrlArchivo = "",
+                Tamano = 1064,
+                FechaCarga = DateTime.Now,
+                Base64 = "",
+            };
+
+            Archivo archivo2 = new Archivo()
+            {
+                Id = 2,
+                RendicionId = 2,
+                NombreArchivo = "facturapago.pdf",
+                TipoArchivo = "factura",
+                UrlArchivo = "",
+                Tamano = 1064,
+                FechaCarga = DateTime.Now,
+                Base64 = "",
+            };
+
+            archivos.Add(archivo1);
+            archivos.Add(archivo2);
+
+            return archivos;
         }
     }
 }

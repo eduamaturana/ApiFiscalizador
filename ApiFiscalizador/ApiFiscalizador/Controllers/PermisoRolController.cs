@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApiFiscalizador.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ApiFiscalizador.Controllers
 {
@@ -6,16 +7,39 @@ namespace ApiFiscalizador.Controllers
     [Route("api/PermisoRol")]
     public class PermisoRolController : ControllerBase
     {
-        private static readonly string[] PermisoRol = new[]
-       {
-          "Administrador", "Ejecutor", "Organizacion"
-        };
 
         [HttpGet]
         [Route("ObtenerPermisoxRol")]
-        public string[] ObtenerPermisoxRol()
+        public List<RolPermiso> ObtenerPermisoxRol()
         {
-            return PermisoRol;
+            List<RolPermiso> rolesXpermiso = [];
+
+            RolPermiso rolPermiso1 = new RolPermiso()
+            {
+                PermisoId = 1,
+                RolId = 3,
+                FechaAsignacion = DateTime.Now,
+            };
+
+            RolPermiso rolPermiso2 = new RolPermiso()
+            {
+                PermisoId = 2,
+                RolId = 1,
+                FechaAsignacion = DateTime.Now,
+            };
+
+            RolPermiso rolPermiso3 = new RolPermiso()
+            {
+                PermisoId = 3,
+                RolId = 1,
+                FechaAsignacion = DateTime.Now,
+            };
+
+            rolesXpermiso.Add(rolPermiso1);
+            rolesXpermiso.Add(rolPermiso2);
+            rolesXpermiso.Add(rolPermiso3);
+
+            return rolesXpermiso;
         }
     }
 }

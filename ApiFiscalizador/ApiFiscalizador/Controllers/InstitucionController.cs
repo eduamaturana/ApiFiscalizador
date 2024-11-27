@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApiFiscalizador.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ApiFiscalizador.Controllers
 {
@@ -6,16 +7,38 @@ namespace ApiFiscalizador.Controllers
     [Route("api/Institucion")]
     public class InstitucionController : ControllerBase
     {
-        private static readonly string[] Instituciones = new[]
-        {
-          "Administrador", "Ejecutor", "Organizacion"
-        };
 
         [HttpGet]
         [Route("ObtenerInstituciones")]
-        public string[] ObtenerInstituciones()
+        public List<Institucion> ObtenerInstituciones()
         {
-            return Instituciones;
+            List<Institucion> instituciones = [];
+
+            Institucion institucion1 = new Institucion()
+            {
+                Id = 1,
+                Nombre = "Fundacion adopta un perrito",
+                Rut = "69344195-7",
+                Direccion = "General Balmaceda 34 Depto 12 , Santiago",
+                Activo = true,
+                FechaCreacion = DateTime.Now,
+            };
+
+            Institucion institucion2 = new Institucion()
+            {
+                Id = 2,
+                Nombre = "ONG del deporte",
+                Rut = "77357241-3",
+                Direccion = "Calle fuerte Pacheco 2221 oficina 601 , Santiago",
+                Activo = true,
+                FechaCreacion = DateTime.Now,
+            };
+
+            instituciones.Add(institucion1);  
+            instituciones.Add(institucion2);
+
+
+            return instituciones;
         }
     }
 }
